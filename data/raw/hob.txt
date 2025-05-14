@@ -1,0 +1,232 @@
+1 adrenaline B -3.49 -0.90 9.9 4(2), 6, 12 1 1 0.90
+2 alprenolol B 0.40 -0.89 9.2 6, 8, 9, 10 1 2 2.80
+3 clomethiazole N 2.12 0.00 9 1 3 3.86
+4 coumarin N 1.39 0.00 7, 9 1 2 2.92
+5 dobutamine B -0.48e -0.90 9.5 4(3), 9 1 1 0.70
+6 domperidone B 2.83 -0.75 7.7 8, 11 1 2 2.70
+7 dopamine B -3.37 -0.90 8.9 4(2), 9 1 1 1.29
+8 epanolol B -0.40 -0.77 7.8f 4, 6, 8 1 2 2.27
+9 estradiol N 4.01 0.00 4, 6(2), 9 1 1 1.89
+10 felodipine N 3.22e 0.00 7, 13 1 1 1.58
+11 hydralazine B 0.14 -0.61 7.3 8(1.5), 16(7.3) 1 2 2.98
+12 isradipine N 1.72e 0.00 7,13 1 1 1.96
+13 ketamine B 1.14 -0.69 7.5 12(2), 14(0.5) 1 2 2.95
+14 lofepramine B 4.58e -0.32 6.7f 8(2), 9(2), 12(2) 1 1 0.66
+15 lovastatin N 4.26 0.00 6, 7(2), 10(2) 1 1 0.68
+16 mebendazole N 2.83 0.00 7 1 2 2.84
+17 meptazinol B 0.71e -0.88 8.7 4,11 1 2 2.62
+18 mercaptopurine B -1.12 -0.72 7.6 13 1 2 2.93
+19 nabumetone N 2.83d 0.00 9, 14 1 3 3.18
+20 nalbuphine B -0.63 -0.88 8.7 4, 6, 11 1 2 2.48
+21 naloxone B 0.64 -0.81 7.9 4, 11 1 2 2.65
+22 nimodipine N 0.73 0.00 7, 13, 15 1 1 1.96
+23 nisoldipine N 1.58 0.00 7, 13 1 1 1.99
+24 nitrendipine N 0.97 0.00 7, 13, 15 1 1 1.93
+25 phenolphthalein N 2.41 0.00 4(2), 7 1 1 0.89
+26 probucol N 7.29e 0.00 1 1 1.70
+27 prochlorperazine B 2.51 -0.69 7.5 8, 12 1 2 2.73
+28 progesterone N 3.87 0.00 10, 14 1 2 2.87
+29 selegiline B 0.62e -0.89 9.2f 12 1 3 3.58
+30 simvastatin N 4.68 0.00 6, 7(2), 10(2) 1 1 0.49
+31 sumatriptan B -2.07 -0.90 9.4f 12 1 3 3.47
+32 tacrine B -0.59 -0.90 9.8 9, 16(9.8) 1 3 3.45
+33 terbutaline B -1.82d -0.89 8.8 4(2), 6, 17 1 1 1.89
+34 testosterone N 3.32 0.00 6(2), 10, 14(0.5) 1 2 2.96
+35 tetrahydrocannabinol N 4.49e 0.00 4, 9, 10(3) 1 1 1.43
+36 venlafaxine B -2.29 -0.89 9.2 12 1 3 3.44
+37 xamoterol B -0.80d -0.78 7.8f 4, 6 1 2 2.85
+38 acebutolol B -0.99 -0.89 9.2 6, 14 2 3 3.34
+39 alprazolam B 1.10 -0.16 6.2f 9 2 3 3.98
+40 amitriptyline B 2.14 -0.90 9.4 9(2), 12 2 2 2.88
+41 chlorpromazine B 2.49 -0.89 9.2 8 2 3 3.07
+42 cisapride B 1.79e -0.75 7.7f 11, 16(0.60) 2 3 3.52
+43 clemastin B 1.65 -0.89 9.2f 11 2 3 3.52
+44 chlorothiazide A -0.45 0.57 6.7 5 2 3 3.56
+45 desipramine B 1.20 -0.90 10.2 8(2), 9(2) 2 2 2.26
+46 dextropropoxyphene B 2.20 -0.89 9.2f 7 2 2 2.67
+47 diltiazem B 1.47 -0.75 7.7 7, 12 2 2 2.46
+48 diprafenone B 0.59 -0.89 9.2f 6, 8, 9, 14, 17 2 2 2.70
+49 doxepin B 1.55e -0.82 8.0 8, 12 2 2 2.89
+50 encainide B -0.34e -0.90 10.2 8, 9, 11 2 2 2.86
+51 ethinyl estradiol N 3.67 0.00 4, 9 2 2 2.37
+52 etilefrine B -2.86d -0.90 9.8f 4, 6, 12 2 2 2.10
+53 famotidine B -1.27 -0.52 7.1 5 2 3 3.11
+54 fluorouracil A -0.89 0.10 8.0 2 4 4.38
+55 imipramine B 1.80 -0.90 9.5 8(2), 9(2) 2 2 2.16
+56 indoramine B 1.56 -0.75 7.7 8, 11 2 2 2.99
+57 isoprenaline B -2.76 -0.88 8.7 4(2), 6 2 1 1.51
+58 isotretinoin A 4.30 0.90 4.5f 10(4) 2 2 2.91
+59 labetalol B 0.35 -0.90 9.3 6, 9 2 3 3.60
+60 lidocaine B 0.88 -0.79 7.9 9, 12(2) 2 2 2.95
+61 lorcainide B 1.44 -0.88 8.7f 11 2 3 3.56
+62 medifoxamine B -0.43e -0.89 9.2f 8(2), 12 2 2 2.40
+63 metoprolol B -1.32 -0.90 9.7 6 2 3 3.80
+64 mianserin B 2.78e -0.52 7.1 8, 9, 12 2 2 2.52
+65 midazolam B 1.37 -0.14 6.1 9 2 3 3.95
+66 moricizine B 2.73 -0.21 6.4 7, 8 2 2 2.19
+67 morphine B -2.34 -0.90 9.6 4, 6, 11 2 2 2.29
+68 nadolol B -2.46 -0.90 9.7 6(3), 17 2 3 3.49
+69 nafcillin A -0.84e 0.90 2.7 7 2 3 3.61
+70 naltrexone B 0.84 -0.84 8.1 4, 11 2 2 2.62
+71 nicardipine B 1.18 -0.72 7.6f 7, 12, 13, 15 2 1 1.23
+72 nicotine B -0.34 -0.82 8.0 11 2 3 3.72
+73 oxacillin A -1.32 0.90 2.8 7, 9 2 3 3.34
+74 oxprenolol B -0.72 -0.90 9.3 6, 8, 9 2 3 3.01
+75 pentazocine B 1.05 -0.88 8.8 4, 10(2), 11 2 2 2.18
+76 pentoxifylline N 0.29 0.00 14 2 3 3.85
+77 phenylephrine B -3.02 -0.90 9.8 4, 6, 12 2 2 2.06
+78 pimozide B 5.42 -0.62 7.3 8, 11 2 1 1.68
+79 pirenzepine B -1.51 -0.83 8.1 8, 12 2 2 2.98
+80 prenalterol B -1.61d -0.89 9.2f 4, 6 2 2 2.74
+81 promethazine B 2.21 -0.89 9.1 8(2), 12 2 2 2.13
+82 propafenone B 0.15e -0.89 9.2f 6, 8, 9, 14 2 2 2.52
+83 propanolol B -0.02 -0.90 9.5 6, 8(1.5) 2 2 2.95
+84 ritodrine B -1.00d -0.89 9.0 4(2), 6 2 1 1.77
+85 salbutamol B -2.69d -0.90 9.3 6(2), 17 2 3 3.62
+86 scopolamine B 0.11 -0.72 7.6 6, 7(0.5), 11, 12 2 2 2.62
+87 spironolactone N 2.78 0.00 7(2), 10, 14(0.5) 2 1 1.53
+88 sulpiride B -2.04 -0.89 9.0 5, 11, 12 2 2 2.13
+89 thioridazine B 2.90 -0.90 9.5 8, 11 2 2 2.62
+90 triazolam B 2.26 -0.14 6.2f 9 2 3 3.78
+91 verapamil B 1.39 -0.89 8.9 2 3 3.90
+92 acetaminophen N 0.51 0.00 4 3 3 3.30
+93 acetylsalicylic acid A -1.81 0.90 3.5 7 3 3 3.51
+94 amantadine B -1.86 -0.90 10.8 3 3 3.91
+95 amiodarone B 2.29 -0.29 6.6 9, 12 3 3 3.30
+96 amlodipine B 0.78 -0.90 9.5f 7(2), 13 3 1 1.77
+97 atenolol B -2.66 -0.90 9.3 6 3 3 3.59
+98 atropine B -1.37 -0.90 9.7 6, 7(0.5), 11, 12 3 2 2.51
+99 bepridil B 1.10 -0.90 9.3f 8, 11 3 3 3.00
+100 betamethasone N 1.94 0.00 6 3 3 3.96
+101 bevantolol B 1.11 -0.87 8.4 6, 9 3 3 3.54
+102 brotizolam B 2.63 -0.14 6.2f 9 3 3 3.68
+103 bufuralol B 1.00 -0.89 9.0 6, 9, 17 3 3 3.75
+104 captopril A -1.78d 0.90 3.7 13 3 3 3.45
+105 chloramphenicol N 1.14 0.00 6(2), 15 3 3 3.77
+106 chlorpheniramine B 0.69 -0.89 9.2 3 3 3.99
+107 chlorphthalidone N 0.22d 0.00 5 3 3 3.34
+108 cimetidine B -0.08 -0.38 6.8 9 3 3 3.99
+109 clomipramine B 2.49 -0.89 9.2f 8, 9(2) 3 2 2.61
+110 clopenthixol B 2.71 -0.83 8.1f 6, 17 3 3 3.67
+111 clozapine B 1.81 -0.81 8.0 8, 12 3 2 2.85
+112 codeine B -0.28 -0.80 7.9 6, 11 3 3 3.55
+113 dexamethasone N 1.83 0.00 6 3 3 3.98
+114 diclofenac A 2.69 0.89 4.8 8 3 3 3.68
+115 dicloxacillin A -0.79 0.90 2.8 7, 9 3 3 3.37
+116 diphenhydramine B 0.77 -0.89 9.0 12 3 3 3.57
+117 doxazosin B 1.14e -0.25 6.5 8, 16(6.5) 3 3 3.35
+118 enoximone N 2.32e 0.00 9 3 3 3.81
+119 ethambutol B -4.02 -0.90 9.5 6(2) 3 3 3.24
+120 finasteride N 3.03 0.00 3 3 3.85
+121 fluoxetine B 0.92 -0.90 10.2f 3 3 3.96
+122 flupenthixol B 2.88 -0.83 8.1 6, 17 3 3 3.62
+123 fluvoxamine B -0.13e -0.90 9.5f 3 4 4.24
+124 furosemide A -0.02 0.90 4.7 5 3 3 3.68
+125 haloperidol B 1.42 -0.86 8.3 11, 14 3 3 3.08
+126 hydrochlorothiazide A -0.19 0.42 7.0 5 3 3 3.50
+127 levobunolol B -0.40 -0.90 9.3 6, 14, 17 3 3 3.57
+128 levomepromazine B 1.98 -0.89 9.2f 8 3 3 3.19
+129 maprotiline B 0.52 -0.90 10.5 3 3 3.99
+130 meperidine B 0.25 -0.88 8.7 7(0.5), 11 3 3 3.15
+131 metoclopramide B -0.18 -0.90 9.3 12, 16(0.6) 3 3 3.60
+132 moclobemide B 1.26e -0.15 6.2 3 4 4.19
+133 nifedipine N 0.42 0.00 7(2), 13 3 2 2.13
+134 nifurtimox N 0.08 0.00 3 4 4.36
+135 nitrazepam N 2.25 0.00 15, 18 3 4 4.15
+136 norethisterone N 2.97 0.00 10 3 3 3.67
+137 nortriptyline B 1.08 -0.90 9.7 9(2), 12 3 3 3.06
+138 omeprazole B 2.21 -0.02 5.2f 9 3 3 3.83
+139 ondansetron B 1.13e -0.61 7.3f 9, 14(0.5) 3 3 3.56
+140 paroxetine B -1.96e -0.90 11.2f 3 3 3.90
+141 penbutolol B 1.35 -0.90 9.3 6, 8, 17 3 3 3.34
+142 perphenazine B 2.88 -0.77 7.8 6, 8, 17 3 3 3.05
+143 pindolol B -0.55 -0.88 8.8 6 3 3 3.85
+144 prazosin B 1.04e -0.25 6.5 16(6.5) 3 3 3.96
+145 primaquine B -2.19e -0.90 10.3f 3 3 3.86
+146 procainamide B -1.82 -0.89 9.2 12, 16(3.5) 3 3 3.39
+147 procyclidine B 1.30e -0.88 8.8f 11 3 3 3.58
+148 quinidine B 1.08 -0.86 8.3 6, 10 3 3 3.58
+149 raclopride B 0.43 -0.89 9.2 11, 12 3 3 3.26
+150 ranitidine B -1.44 -0.84 8.2 3 3 3.99
+151 timolol B -0.99 -0.90 9.3 6, 17 3 4 4.04
+152 triamterene B 0.80 -0.15 6.2 16(6.2) 3 4 4.04
+153 urapidil B 0.90 -0.52 7.1 8 3 3 3.50
+154 zofenoprilat A -0.64e 0.90 3.7f 13 3 3 3.55
+155 allopurinol N -0.55 0.00 4 4 4.36
+156 amobarbital A 2.05 0.13 7.8 4 4 4.16
+157 amrinone B -0.72 -0.02 5.2f 16(3.0) 4 4 4.24
+158 betaxolol B -0.07 -0.90 9.4 6 4 3 3.85
+159 bisoprolol B -0.83 -0.89 9.2f 6 4 3 3.84
+160 bumetanide A -1.84e 0.90 4.0 5 4 3 3.57
+161 caffeine N -0.07 0.00 4 4 4.36
+162 carbamazepine N 2.45 0.00 4 4 4.01
+163 carteolol B -1.35 -0.89 9.2f 6, 17 4 4 4.01
+164 chlorambucil A 2.29 0.82 5.8 4 4 4.12
+165 chlordiazepoxide B 2.43 -0.01 4.8 18 4 4 4.25
+166 chloroquine B 0.33 -0.90 9.9 4 4 4.01
+167 chlorpropamide A 0.76 0.89 5.0 4 4 4.64
+168 cibenzoline B -0.37e -0.90 10.3 4 4 4.03
+169 clobazam N 0.95 0.00 18 4 4 4.52
+170 clonazepam N 2.41 0.00 15, 18 4 4 4.11
+171 clonidine B 0.06 -0.82 8.0 4 4 4.05
+172 cyclophosphamide N 0.63 0.00 4 4 4.32
+173 desmethyldiazepam N 2.93 0.00 18 4 4 4.11
+174 diazepam N 2.99 0.00 18 4 4 4.09
+175 diazoxide A 1.20 0.03 8.5 9 4 4 4.03
+176 diflunisal A 0.94 0.90 3.0 4 4 4.62
+177 disopyramide B -1.08 -0.90 10.4 4 4 4.01
+178 ethanol N -0.31 0.00 6 4 4 4.19
+179 ethosuximide N -0.33d 0.00 4 4 4.36
+180 flecaninide B 0.24 -0.90 9.3 4 4 4.02
+181 flurbiprofen A 1.81 0.90 4.2 4 4 4.49
+182 fluconazole N -0.11d 0.00 4 4 4.36
+183 flucytosine N -1.65d 0.00 16(2.9) 4 4 4.18
+184 flunitrazepam N 2.06 0.00 15, 18 4 4 4.19
+185 gemfibrozil A 1.47e 0.89 4.8f 9(2) 4 4 4.08
+186 glipizide A 1.31 0.81 5.9 9 4 4 4.32
+187 glyburide A 1.85 0.87 5.3 4 4 4.47
+188 hexobarbital A 1.48 0.04 8.3 10(2) 4 3 3.83
+189 ibuprofen A 2.18 0.88 5.2 4 4 4.40
+190 indomethacin A 2.27 0.90 4.5 4 4 4.39
+191 isoniazide N -0.70 0.00 16(2.1) 4 4 4.28
+192 isosorbide 2-nitrate N -0.40 0.00 6 4 4 4.18
+193 isosorbide 5-nitrate N -0.15 0.00 6 4 4 4.18
+194 ketoprofen A 1.21 0.89 4.6 4 4 4.59
+195 ketolorac A -1.34d 0.90 3.5 4 4 4.64
+196 lorazepam N 2.51 0.00 6, 18 4 4 4.05
+197 mabuterol B -0.03e -0.90 9.7f 6, 17 4 4 4.06
+198 methadone B 1.16 -0.90 9.3 14(0.5) 4 3 3.69
+199 methylprednisolone N 1.66d 0.00 6 4 4 4.01
+200 metronidazole N -0.02 0.00 6, 9, 17 4 4 4.16
+201 mexiletine B -0.55 -0.89 9.2 9(2) 4 3 3.56
+202 naproxen A 1.04 0.90 4.2 4 4 4.61
+203 nitrofurantoin N -0.47 0.00 4 4 4.36
+204 nizatidine B -0.08 -0.38 6.8 4 4 4.22
+205 oxaprozin A 3.41 0.84 5.8f 4 4 4.04
+206 oxazepam N 2.24 0.00 6, 18 4 4 4.20
+207 phenobarbital A 1.43 0.21 7.5 4 4 4.30
+208 phenylbutazone A 1.06 0.90 4.4 4 4 4.61
+209 phenylethylmalonamide N 0.13 0.00 4 4 4.35
+210 phenytoin A 2.47 0.10 8.0 4 4 4.05
+211 prednisolone N 1.62 0.00 6 4 4 4.02
+212 prednisone N 1.46 0.00 6, 14(0.5) 4 3 3.80
+213 primidone N 0.91 0.00 4 4 4.30
+214 probenecid A 0.11 0.90 3.4 4 4 4.69
+215 protriptyline B 0.34 -0.84 8.2 4 4 4.03
+216 quinine B 0.34 -0.88 8.8 6, 10 4 3 3.64
+217 salicylic acid A -1.24 0.90 3.0 8 4 4 4.05
+218 sulfadiazine A -0.39 0.65 6.5 16(2.3) 4 4 4.52
+219 sulfamethoxazole A 0.11 0.83 5.8 9, 16(2.3) 4 4 4.35
+220 sulfinpyrazone A -1.40 0.90 2.8 4 4 4.64
+221 sulfisoxazole A -0.50 0.89 5.0 9, 16(2.3) 4 4 4.37
+222 temazepam N 2.19 0.00 6, 18 4 4 4.13
+223 tenoxicam A 0.56 0.88 5.1f 4 4 4.66
+224 theophylline A -0.02 0.02 8.8 4 4 4.37
+225 tocainide B -0.56 -0.78 7.8 9(2) 4 3 3.60
+226 tolbutamide A 1.11 0.87 5.3 9 4 4 4.36
+227 tolmetin A -0.21 0.90 3.5 9 4 4 4.46
+228 trazodone B 1.47 -0.33 6.7 4 4 4.10
+229 trimethoprim B 0.13 -0.57 7.2 16(3.5) 4 4 4.02
+230 valproic acid A 1.04 0.89 4.8 4 4 4.61
+231 warfarin A 1.28 0.88 5.1 14 4 4 4.08
+232 zalcitabine N -1.33 0.00 6, 16(3.5) 4 4 4.01
