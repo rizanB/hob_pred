@@ -1,13 +1,18 @@
 import json
+import os
 
 import numpy as np
 import pubchempy as pcp
 from fastapi import FastAPI
 from rdkit.Chem import Descriptors, MolFromSmiles
+from utils.load_conf import load_config
 
 app = FastAPI()
 
-with open("/home/rizanb/Documents/hob_pred/reports/av_models.json", "r") as f:
+config = load_config()
+
+av_models_path = os.path.join(config['paths']['reports_dir'], "av_models.json")
+with open(av_models_path, "r") as f:
     av_models = json.load(f)
 
 @app.post("/predict_hob")
@@ -72,5 +77,6 @@ def get_mpath(_model_name):
     if not (_model_name in av_models.keys()):
         _model_name = "knn"
 
-    mpath = f"/home/rizanb/Documents/hob_pred/models/{_model_name}_{av_models[_model_name][1]}.joblib"
+
+    mpath = os.path.join(config['paths']['models_dir'], f"{_model_name}_{av_models[_model_name][1]}.joblib")
     return mpath
