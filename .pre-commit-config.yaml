@@ -11,3 +11,12 @@ repos:
     hooks:
     -   id: isort
         args: ["--profile", "black", "--filter-files"]
+
+-   repo: local
+    hooks:
+    -   id: pytest
+        name: pytest
+        entry: pytest
+        language: system
+        pass_filenames: false
+        always_run: true
