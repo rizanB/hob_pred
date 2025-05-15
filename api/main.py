@@ -8,10 +8,11 @@ from rdkit.Chem import Descriptors, MolFromSmiles
 from utils.load_conf import load_config
 
 app = FastAPI()
-
 config = load_config()
 
-av_models_path = os.path.join(config['paths']['reports_dir'], "av_models.json")
+BASE_DIR = config['paths']['BASE_DIR']
+
+av_models_path = os.path.join(BASE_DIR, "reports", "av_models.json")
 with open(av_models_path, "r") as f:
     av_models = json.load(f)
 
@@ -77,6 +78,6 @@ def get_mpath(_model_name):
     if not (_model_name in av_models.keys()):
         _model_name = "knn"
 
-
-    mpath = os.path.join(config['paths']['models_dir'], f"{_model_name}_{av_models[_model_name][1]}.joblib")
+    mname_acc = f"{_model_name}_{av_models[_model_name][1]}"
+    mpath = os.path.join(BASE_DIR, "models", f"{mname_acc}.joblib")
     return mpath

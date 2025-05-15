@@ -1,5 +1,6 @@
 {
   "paths": {
+    "BASE_DIR": "/home/rizanb/Documents/hob_pred",
     "data_dir": "/home/rizanb/Documents/hob_pred/data",
     "models_dir": "/home/rizanb/Documents/hob_pred/models",
     "reports_dir": "/home/rizanb/Documents/hob_pred/reports",
