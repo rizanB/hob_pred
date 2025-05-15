@@ -1,0 +1,12 @@
+{
+    "knn": ["KNearest Neighbors", 0.587],
+    "gb": ["Gradient Boosting", 0.500],
+    "xgb": ["eXtended Gradient Boosting", 0.543],
+    "logr": ["Logistic Regression", 0.522],
+    "rf": ["Random Forest", 0.522],
+    "svc": ["Support Vector Classifier", 0.543],
+    "sknn" : ["Stacking with KNN metalearner", 0.413],
+    "hardv": ["Hard Voting", 0.609],
+    "softv": ["Soft Voting", 0.565],
+    "wvot" : ["Weighted Voting", 0.565]
+}
