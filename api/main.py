@@ -16,6 +16,10 @@ av_models_path = os.path.join(BASE_DIR, "reports", "av_models.json")
 with open(av_models_path, "r") as f:
     av_models = json.load(f)
 
+@app.get("/available_models")
+def return_available_models():
+    return av_models
+
 @app.post("/predict_hob")
 def predict_hob(cmp_name:str, model_name:str = "knn"):
 
