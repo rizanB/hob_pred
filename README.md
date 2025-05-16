@@ -16,4 +16,4 @@ prepared dataset, trained models, basic endpoints (pending: get prediction)
 [GET] ```localhost:8000/available_models```
 
 ### Get hob prediction 
-[POST] ```localhost:8000/predict_hob?cmp_name=gallic acid*model_name=rf```
+[POST] ```localhost:8000/predict_hob?cmp_name=gallic acid&model_name=rf```
