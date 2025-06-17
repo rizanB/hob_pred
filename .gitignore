@@ -6,6 +6,7 @@ __pycache__/
 
 # packaging
 env
+.env
 
 # jupyter stuff
 .ipynb_checkpoints

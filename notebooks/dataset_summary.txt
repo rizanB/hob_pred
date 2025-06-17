@@ -1,0 +1,6 @@
+total_compounds: 2178
+mean_bioavailability: 36.57151359044995
+median_bioavailability: 26.0
+std_bioavailability: 37.450237377407745
+min_bioavailability: -44.0
+max_bioavailability: 765.0
